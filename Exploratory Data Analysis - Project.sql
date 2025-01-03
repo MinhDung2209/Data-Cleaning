@@ -1,3 +1,7 @@
+-- -- SQL Project - Data Exploration
+
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 -- Exploratary Data Analysis 
 SELECT * 
 FROM layoffs_staging2
